@@ -25,6 +25,35 @@
 
 
 ---
+<!-- GitHub Stats Section -->
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satya481&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satya481&theme=github_dark" />
+</div>
+
+<br>
+
+<!-- GitHub Trophies Section -->
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Satya481&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+</div>
+<br>
+
+<!-- Snake Animation Section -->
+
+  ![snake gif](https://github.com/Satya481/Satya481/blob/output/github-snake.svg)
+
+---
 
 <!--### 🛠️ Technologies & Tools
 
