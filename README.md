@@ -73,6 +73,7 @@
 ### 🔗 Connect with Me
 
 
+- LinkedIn: [Kaushar's LinkedIn](https://in.linkedin.com/in/kaushar-halani-904804354)
 
 
 ---
