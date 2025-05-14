@@ -3,10 +3,11 @@
 ### Data Scientist | Data analyst | Competitive Coder 
 
 <p>
-  <img width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkwNDBra3NtNmJlMHF0cTlkdnp0MG8xYzhuYmF0NzdoZGphZ3JuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Typing GIF">
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Typing GIF">
 </p>
 
----
+<img width="1000" src="./animations/line.gif">
+
 
 ### 🚀 About Me
 
@@ -23,8 +24,7 @@
 🚀 Curious about how data can solve real-world problems
 
 
-
----
+<img width="1000" src="./animations/line.gif">
 
 <!--### 🛠️ Technologies & Tools
 
@@ -75,8 +75,8 @@
 
 - LinkedIn: [Kaushar's LinkedIn](https://in.linkedin.com/in/kaushar-halani-904804354)
 
+<img width="1000" src="./animations/line.gif">
 
----
 
 ### 🚀 Let's Build Something Amazing Together!
 
