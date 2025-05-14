@@ -9,7 +9,7 @@
 <img width="1000" src="./animations/line.gif">
 
 
-### 🚀 About Me
+# 👤 About Me
 
 📍 Pre-final year CSE student (Data Science Specialization)
 
@@ -70,7 +70,16 @@
 </p> -->
 
 
-### 🔗 Connect with Me
+# 📊 GitHub Stats:
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&layout=compact' />
+<img width=1000 src='https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia'/>
+
+ ![kaushar's github activity graph](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake.svg)
+ 
+<img width="1000" src="./animations/line.gif">
+
+# 🌐 Connect with Me
 
 
 - LinkedIn: [Kaushar's LinkedIn](https://in.linkedin.com/in/kaushar-halani-904804354)
@@ -78,7 +87,7 @@
 <img width="1000" src="./animations/line.gif">
 
 
-### 🚀 Let's Build Something Amazing Together!
+# 🚀 Let's Build Something Amazing Together!
 
 Feel free to check out my repositories, projects, and code. If you'd like to collaborate or discuss tech, I'd be happy to connect!
 
