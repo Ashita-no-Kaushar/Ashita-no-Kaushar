@@ -50,7 +50,7 @@
 
 <!-- Snake Animation Section -->
 
-  ![snake gif](https://github.com/Ashita-no-Kaushar/Ashita-no-Kaushar/blob/output/github-snake.svg)
+ ![kaushar's github activity graph](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake.svg)
 
 ---
 
