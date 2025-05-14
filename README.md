@@ -25,24 +25,16 @@
 
 
 ---
-### ✨ My GitHub Activity
+## 📊 Performance Metrics
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=radical&column=8" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MehtabAsHellic&theme=radical&column=7" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashita-no-Kaushar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita-no-Kaushar&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehtabAsHellic&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabAsHellic&layout=compact&theme=radical"/>
 </div>
-<!-- Snake Animation Section -->
-<div align="center">
-  
- ![kaushar's github activity graph](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake.svg)
- 
-</div>
-
----
 
 <!--### 🛠️ Technologies & Tools
 
@@ -101,3 +93,8 @@
 Feel free to check out my repositories, projects, and code. If you'd like to collaborate or discuss tech, I'd be happy to connect!
 
 Happy coding! 🌟
+
+<!-- Snake Animation Section 
+ ![kaushar's github activity graph](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake.svg)
+-->
+
