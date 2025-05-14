@@ -28,26 +28,12 @@
 ### ✨ My GitHub Activity
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashita-no-Kaushar &theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashita-no-Kaushar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita-no-Kaushar&layout=compact&theme=radical"/>
 </div>
-
 <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashita-no-Kaushar&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashita-no-Kaushar&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashita-no-Kaushar&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashita-no-Kaushar theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashita-no-Kaushar&theme=github_dark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=radical&column=7" alt="GitHub Trophies"/>
 </div>
-
-<br>
-
-<!-- GitHub Trophies Section -->
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
-</div>
-<br>
-
 <!-- Snake Animation Section -->
 
  ![kaushar's github activity graph](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake.svg)
