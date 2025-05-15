@@ -76,6 +76,7 @@
 <img width=1000 src='https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia'/>
 
  ![kaushar's github activity graph](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake-blue.svg)
+![snake animation](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake2.svg)
 
 <img width="1000" src="./animations/line.gif">
 
