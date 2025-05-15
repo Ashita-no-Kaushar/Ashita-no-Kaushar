@@ -75,9 +75,7 @@
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&layout=compact' />
 <img width=1000 src='https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia'/>
 
- ![kaushar's github activity graph](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake.svg)
-![snake animation](https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-contribution-grid-snake2.svg)
-![Snake animation](https://raw.githubusercontent.com/<>/<your-username>/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ashia-no-Kaushar/Ashita-no-Kaushar/output/ocean.svg)
 
 <img width="1000" src="./animations/line.gif">
 
