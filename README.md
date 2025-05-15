@@ -76,6 +76,11 @@
 <img width=1000 src='https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia'/>
 
 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupesh108-iebe/rupesh108-iebe/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupesh108-iebe/rupesh108-iebe/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/rupesh108-iebe/rupesh108-iebe/output/github-snake.svg" />
+
+
 <img width="1000" src="./animations/line.gif">
 
 # 🌐 Connect with Me
