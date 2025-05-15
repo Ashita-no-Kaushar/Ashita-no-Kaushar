@@ -72,14 +72,9 @@
 
 # 📊 GitHub Stats & Activity
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&layout=compact'/>
 <img width=1000 src='https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia'/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ashita-no-Kaushar/Ashita-no-Kaushar/output/github-snake.svg" />
-</picture>
 
 <img width="1000" src="./animations/line.gif">
 
