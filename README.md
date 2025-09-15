@@ -86,7 +86,8 @@
 # 🌐 Connect with Me
 
 
-- LinkedIn: [Kaushar's LinkedIn](https://in.linkedin.com/in/kaushar-halani-904804354)
+- LinkedIn: [Kaushar's LinkedIn](https://www.linkedin.com/in/kaushar-halani-8aa9a7381)
+- Email: [thekaushar.ds@gmail.com](mailto:thekaushar.ds@gmail.com)
 
 <img width="1000" src="./animations/line.gif">
 
