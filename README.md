@@ -11,17 +11,16 @@
 
 # 🎓 About Me
 
-📍 Pre-final year CSE student (Data Science Specialization)
+On a mission to master Data Analytics, one day at a time. 🚀
 
-🔍 Exploring the world of data science one step at a time
+I am a Pre-final year CSE student specializing in Data Science. My approach is based on Kaizen—focusing on 1% daily improvements to achieve long-term mastery.
 
-🧠 Learning Python, SQL, and data analysis
+Currently learning:
+🐍 Python & SQL
+📊 Data Visualization
+🤖 ML Basics
 
-📊 Getting better at machine learning and data visualization
-
-💻 Building hands-on projects to apply what I learn
-
-🚀 Curious about how data can solve real-world problems
+Follow my profile to watch my Zero to Hero transformation unfold.
 
 
 <img width="1000" src="./animations/line.gif">
