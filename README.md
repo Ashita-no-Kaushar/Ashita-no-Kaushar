@@ -88,7 +88,7 @@ Follow my profile to watch my Zero to Hero transformation unfold.
 # 🌐 Connect with Me
 
 
-- LinkedIn: [Kaushar's LinkedIn](https://www.linkedin.com/in/kaushar-halani-8aa9a7381)
+- LinkedIn: [Kaushar's LinkedIn](www.linkedin.com/in/kaushar-halani-452677398)
 - Email: [thekaushar.ds@gmail.com](mailto:thekaushar.ds@gmail.com)
 
 <img width="1000" src="./animations/line.gif">
