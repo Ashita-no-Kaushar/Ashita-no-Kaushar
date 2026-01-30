@@ -40,15 +40,17 @@ I am documenting my **"Zero to Hero"** journey in Data Analytics. Unlike others 
 <img width="1000" src="./animations/line.gif">
 
 # 📊 GitHub Stats & Activity
-
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashita-no-Kaushar&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
 </div>
-
+-->
 <br>
 
 <div align="center">
+ <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashita-no-Kaushar&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
@@ -63,11 +65,11 @@ I am documenting my **"Zero to Hero"** journey in Data Analytics. Unlike others 
 </div>
 
 <br>
-
+<!--
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia&column=7" alt="GitHub Trophies" />
 </div>
-
+-->
 <br>
 
 <div align="center">
