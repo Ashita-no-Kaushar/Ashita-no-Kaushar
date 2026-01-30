@@ -65,7 +65,7 @@ I am documenting my **"Zero to Hero"** journey in Data Analytics. Unlike others 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia&column=7" alt="GitHub Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-Kaushar&theme=algolia&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
